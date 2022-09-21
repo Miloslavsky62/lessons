@@ -1,0 +1,24 @@
+h1{
+    color:red;
+    font-size: 40px;
+}
+div{
+    color:blue;
+    font-size: 20px;
+}
+.box1{
+    text-decoration: underline;
+    color:darkgoldenrod;
+}
+p{
+    color:seagreen;
+    font-family: 'cambria';
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    cursor: crosshair;
+    color:brown;
+}
